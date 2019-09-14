@@ -27,22 +27,22 @@ url: "http://vsalova.github.io" # the base hostname & protocol for your site, e.
 twitter_username: victoriasaidhi
 github_username:  vsalova
 
-# #original
-# # Build settings
-# theme: minima
-# plugins:
-#   - jekyll-feed
+#original
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
 
 # this is shamelessly stolen from someone, so gotta fix it
 # Build settings
-markdown: kramdown
-permalink: pretty
-
-highlighter: rouge
-kramdown:
-  input: GFM
-  auto_ids: true
-  syntax_highlighter: rouge
+# markdown: kramdown
+# permalink: pretty
+#
+# highlighter: rouge
+# kramdown:
+#   input: GFM
+#   auto_ids: true
+#   syntax_highlighter: rouge
 
 
 # Exclude from processing.
